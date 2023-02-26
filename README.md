@@ -1,5 +1,5 @@
 # Projet BASIC : "A la recherche du temps perdu"
-Plusieur petits projets de programmation en langage Basic ! 
+Plusieurs petits projets de programmation en langage Basic ! 
 
 J'ai remarqué, il y a quelques jours que mes premières lignes de programmation étaient écrites en Basic.
 
