@@ -18,3 +18,13 @@ Partir a l'exploration des différents types de données, les opérateurs, les f
 Que vous soyez débutant ou que vous ayez une expérience de programmation antérieure, suivez-moi dans ces projets simple qui vous offrira une opportunité d'explorer le langage Basic et de développer vos compétences en programmation. 
 
 Alors, allons-y et commençons à coder en Basic !
+
+## [Installation]
+
+Pour exécuter du basic sur les ordinateurs actuels, il existe deux solutions simples.
+1. PC-BASIC est un émulateur du GW-BASIC
+https://robhagemans.github.io/pcbasic/
+2. DosBox qui permet d'exécuter l'orignal GW-BASIC
+https://www.dosbox.com
+
+Pourquoi GW-BASIC, c'est un BASIC écrit par Microsoft, il était présent sur tous les IBM-PC compatible des années 80. Microsoft a livré aussi des versions de son basic pour les ordinateurs MSX, Commodore 64 et autre. Il y a donc une certaine compatibilité et des vieux listings peuvent facilement être adapter.
