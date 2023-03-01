@@ -1,0 +1,43 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    .gitignore                                         :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: Maurice809 <maurice809@hotmail.com>        +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2022/09/22 17:24:37 by Maurice809        #+#    #+#              #
+#    Updated: 2023/03/01 14:01:06 by Maurice809       ###   Lausanne.ch        #
+#                                                                              #
+# **************************************************************************** #
+
+# git config --global core.excludesFile ~/.gitignore
+
+# macOS Files
+.DS_Store
+
+# ingnore directory
+**/util
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
