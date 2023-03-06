@@ -6,7 +6,7 @@
 #    By: Maurice809 <maurice809@hotmail.com>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/09/22 17:24:37 by Maurice809        #+#    #+#              #
-#    Updated: 2023/03/06 22:40:14 by Maurice809       ###   Lausanne.ch        #
+#    Updated: 2023/03/06 22:45:27 by Maurice809       ###   Lausanne.ch        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -14,6 +14,7 @@
 
 # macOS Files
 .DS_Store
+._*.*
 
 # ingnore directory
 **/util
@@ -41,5 +42,3 @@
 *.a
 *.la
 *.lo
-._*
-
